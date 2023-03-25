@@ -1,1 +1,1 @@
-# named-entity-recognition
+# custom-named-entity-recognition
